@@ -3,7 +3,7 @@ Yii2 Admin 后台模板
 
 ### 简介
 系统基于yii基础版本开发，后台模板使用的ace admin。对于一般的后台开发，比较方便; 对于数据表的CURL操作都有封装，且所有操作都有权限控制。
-引用了https://packagist.org/packages/jinxing/yii2-admin 这个扩展,进行基本的配置,融化到了yii2基础版本
+引用了https://packagist.org/packages/jinxing/yii2-admin 这个扩展,进行基本的配置,融合到了yii2基础版本
 #### 特点
 * 使用RBAC权限管理，所有操作基于权限控制
 * 视图使用JS控制，数据显示使用的jquery.DataTables
